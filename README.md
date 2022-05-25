@@ -1,5 +1,13 @@
 # covid_app
 
+screenshot:
+
+![Screenshot_1653491893](https://user-images.githubusercontent.com/58290134/170298408-d57ed637-6eda-4113-9b35-9ade68bbf92b.png)
+
+
+![Screenshot_1653491912](https://user-images.githubusercontent.com/58290134/170298464-8f992908-92c2-4850-9d8c-e3353df511e2.png)
+
+
 A new Flutter project.
 
 ## Getting Started
